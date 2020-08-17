@@ -257,3 +257,19 @@ Now that the server is broadcasting the move to the opponent all we need to do i
     ````
 
 2. Now run your server and try out your game. When you make a move on when browser you should see it change on the other tab.
+
+
+## Ideas for what's next
+* Firstly currently if a player is trapped, no message is displayed. Need to ad that
+* Need to make it more responsive
+* Create a menu and a virtual space to find opponents
+* Wrap the UI in a better framework like Ionic
+* Consider building a 3D interface in Unity
+* Need to deploy on AWS instance or any other hosting platform
+
+# Credits
+
+https://www.chess.com/article/view/how-to-set-up-a-chess-game
+https://howtomakeachessengine.wordpress.com/2016/07/20/how-to-make-a-chess-engine/
+https://decodechess.com/how-to-use-a-chess-engine-guide/
+https://www.bing.com/videos/search?q=how+to+make+a+chess+engine+in+html&&view=detail&mid=017919B839060FF98741017919B839060FF98741&&FORM=VRDGAR&ru=%2Fvideos%2Fsearch%3Fq%3Dhow%2520to%2520make%2520a%2520chess%2520engine%2520in%2520html%26qs%3Dn%26form%3DQBVR%26sp%3D-1%26pq%3Dhow%2520to%2520make%2520a%2520chess%2520engine%2520in%2520html%26sc%3D0-34%26sk%3D%26cvid%3DFCACB425F1264564A512C9B5713017F2
